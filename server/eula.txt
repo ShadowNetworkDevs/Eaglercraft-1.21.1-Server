@@ -1,0 +1,2 @@
+#the minecraft eula sooo I say YES
+eula=true
