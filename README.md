@@ -1,4 +1,4 @@
-Eaglercraft 1.21.5 Server by Ryan Norshare! 
+Eaglercraft 1.21.1 Server by Ryan Norshare! 
 <br>
 Step 1: Installing some stuff :D in a new terminal tyoe `sudo apt install default-jdk && sudo apt install default-jre -y` 
 <br>
